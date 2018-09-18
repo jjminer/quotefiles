@@ -1,0 +1,32 @@
+The lessons learned from disasters can do more to advance engineering
+knowledge than all the successful machines and structures in the world.
+    - Henry Petroski in _To_Engineer_Is_Human_
+%%
+That the sun rises each morning may also be considered a hypothesis,
+and our experience that indeed this happens day in and day out serves
+to confirm -- but not prove -- the hypothesis.
+    - Henry Petroski on the scientific process
+      in _To_Engineer_Is_Human_
+%%
+Our belief that the sun will rise tomorrow is basically a matter of
+faith rather than of rigorously established fact.
+    - Henry Petroski on the scientific process
+      in _To_Engineer_Is_Human_
+%%
+It is the essence of modern engineering not only to be able to check
+one's own work, but also to have one's work checked and to be able to
+check the work of others.
+    - Henry Petroski on the scientific process
+      in _To_Engineer_Is_Human_
+%%
+No one wants to learn by mistakes, but we cannot learn enough from successes
+to go beyond the state of the art.
+    - Henry Petroski in _To_Engineer_Is_Human_
+%%
+"Good judgement is usually the result of experience.  And experience is
+frequently the result of bad judgement.  But to learn from the
+experience of others requires those who have the experience to share
+the knowledge with those who follow."
+    - Barry LePatner on the importance of public disclosure,
+      quoted by Henry Petroski in _To_Engineer_Is_Human_
+%%

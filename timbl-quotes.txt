@@ -1,0 +1,16 @@
+When I want to interact with a computer, I have to wait several minutes
+after turning it on before it is ready to converse.  This is absurd. 
+These machines are supposed to be there for us, not the other way
+around.
+    - Tim Berners-Lee in _weaving_the_web_
+%%
+If interactivity is not just sitting there passively in front of a
+display screen, then intercreativity is not just sitting there in front
+of something "interactive."
+    - Tim Berners-Lee in _weaving_the_web_
+%%
+The Internet ethos in the seventies and eighties was one of sharing for
+the common good, and it would have been unthinkable for a player to ask
+fees for just implementing a standard protocol such as HTTP.
+    - Tim Berners-Lee on software patents in _weaving_the_web_
+%%
